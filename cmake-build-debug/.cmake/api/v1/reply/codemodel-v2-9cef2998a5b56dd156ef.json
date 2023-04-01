@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project_OS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project_OS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project_OS-Debug-cf0d0b4d6c644e30686b.json",
+					"name" : "Project_OS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dirname::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dirname-Debug-7e15340c587e618911b7.json",
+					"name" : "dirname",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ls-Debug-25129803119c7af3fbcd.json",
+					"name" : "ls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tac-Debug-718e220ee50bfb01599b.json",
+					"name" : "tac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/remus/Desktop/Project_OS/cmake-build-debug",
+		"source" : "/home/remus/Desktop/Project_OS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,6 @@
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/Project_OS.dir
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/ls.dir
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/dirname.dir
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/tac.dir
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/remus/Desktop/Project_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
